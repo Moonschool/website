@@ -54,6 +54,9 @@ a:hover {
 }
 
 @media only screen and (max-width: 1060px) {
+    body {
+        background-color: black;
+    }
     .two {
         display: none;
     }
